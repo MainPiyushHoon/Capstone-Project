@@ -1,0 +1,8 @@
+employee_id,name,department,salary,joining_date,email,status
+EMP1001,Rahul Sharma,Engineering ,85000,2026-06-15,rahul@example.com,Active
+EMP1002,Priya Patel, HR ,62000,2025-03-10,priya@example.com,Active
+EMP1003, Amit Verma ,Finance,71000,2026-01-20,amit@example.com,Active
+EMP1004,Neha Gupta,engineering,90000,2024-11-05,neha@example.com,Active
+EMP1005,,Marketing,55000,2026-04-12,bad_email,Active
+EMP1001,Duplicate User,Sales,40000,2026-02-01,dup@example.com,Active
+EMP1006,Suresh Kumar,Sales,-5000,2026-05-18,suresh@example.com,Inactive
