@@ -46,7 +46,6 @@ Capstone Project/
 │   └── output/             # Output destination for generated reports & logs
 ├── tests/                  # Pytest unit test suite
 ├── requirements.txt
-├── PROJECT.md
 └── README.md
 ```
 
